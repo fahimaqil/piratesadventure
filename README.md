@@ -15,6 +15,6 @@ Move Right- D, Move Left- A, Ground- S, Jump- Space, Fire- Left Click. CrossPlat
 
 ![alt](/homepirate.png)
 
-![alt](/menupirate.png)
+![alt](/mainpirate.png)
 
 
